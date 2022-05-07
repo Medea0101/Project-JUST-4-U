@@ -372,7 +372,9 @@ main{
   }
 }
 
-
+footer{
+  background-color: #1E141D;
+}
 .footer__container {
   width:100%;
   background-color: #131313;
